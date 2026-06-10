@@ -1,0 +1,3 @@
+# This project uses only Python Standard Library modules (csv, os, unittest).
+# No external dependencies are required to run the application or test suite.
+# You can run the application directly using Python 3.
